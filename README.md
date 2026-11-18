@@ -30,7 +30,7 @@
 
 ### ✿ мои дни в коде
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bezdelnichka&bg_color=FFF0F5&color=8E5A7A&line=E87FA8&point=B98BD9&area=true&area_color=FFC8DD&hide_border=true&radius=16&custom_title=%D0%BC%D0%BE%D0%B8%20%D0%B4%D0%BD%D0%B8%20%D0%B2%20%D0%BA%D0%BE%D0%B4%D0%B5" width="100%" alt="График активности" />
+<img src="https://raw.githubusercontent.com/bezdelnichka/bezdelnichka/output/profile-pink.svg" width="100%" alt="3D-город из активности" />
 
 ### ♡ на связи
 

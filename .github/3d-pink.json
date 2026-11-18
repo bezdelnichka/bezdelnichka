@@ -1,0 +1,20 @@
+{
+  "type": "normal",
+  "fileName": "profile-pink.svg",
+  "backgroundColor": "#FFF0F5",
+  "foregroundColor": "#8E5A7A",
+  "strongColor": "#E87FA8",
+  "weakColor": "#B98BD9",
+  "radarColor": "#E87FA8",
+  "growingAnimation": true,
+  "contribColors": ["#F6E7F0", "#FFC8DD", "#F4A6C1", "#E87FA8", "#B98BD9"],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#1F1A22",
+    "foregroundColor": "#F3D9E6",
+    "strongColor": "#FFADD2",
+    "weakColor": "#9C8AA5",
+    "radarColor": "#F783AC",
+    "contribColors": ["#3A2B35", "#5C2A42", "#8C3A63", "#C2477F", "#F783AC"]
+  }
+}
