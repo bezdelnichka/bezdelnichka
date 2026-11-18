@@ -8,31 +8,32 @@
 
 </div>
 
-<br/>
+<p align="center">⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆</p>
 
 <table align="center">
-<tr><td colspan="2" align="center"><b>♡ немного обо мне ♡</b></td></tr>
-<tr><td>✿ сейчас</td><td>делаю музыкальный плеер для ПК</td></tr>
-<tr><td>✿ люблю</td><td>пастельные цвета, музыку и красивые мелочи</td></tr>
-<tr><td>✿ умею</td><td>десктопные приложения, iOS, уютные интерфейсы</td></tr>
-<tr><td>✿ платформы</td><td>Windows · Linux · macOS · iOS</td></tr>
-<tr><td>✿ пишите</td><td>если хотите сделать что-то красивое вместе</td></tr>
+<tr><td colspan="2" align="center"><b>୨୧ немного обо мне ୨୧</b></td></tr>
+<tr><td>⋆ сейчас</td><td>делаю музыкальный плеер для ПК</td></tr>
+<tr><td>✧ люблю</td><td>пастельные цвета, музыку и красивые мелочи</td></tr>
+<tr><td>☾ умею</td><td>десктопные приложения, iOS, уютные интерфейсы</td></tr>
+<tr><td>⊹ платформы</td><td>Windows · Linux · macOS · iOS</td></tr>
+<tr><td>♪ пишите</td><td>если хотите сделать что-то красивое вместе</td></tr>
+<tr><td>✦ мой любимчик</td><td><b>Claude</b> ♡</td></tr>
 </table>
 
-<br/>
+<p align="center">⋆ ˚｡⋆୨୧˚　˚୨୧⋆｡˚ ⋆</p>
 
 <div align="center">
 
-### ♡ мои инструменты
+### ₊˚⊹ мои инструменты ⊹˚₊
 
 <img src="https://skillicons.dev/icons?i=rust,tauri,react,ts,js,vite,nodejs,supabase,swift&theme=light&perline=9" alt="Стек" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,windows,linux,apple&theme=light&perline=7" alt="Инструменты" />
 
-### ✿ мои дни в коде
+### ✧ мои дни в коде ✧
 
 <img src="https://raw.githubusercontent.com/bezdelnichka/bezdelnichka/output/profile-pink.svg" width="100%" alt="3D-город из активности" />
 
-### ♡ на связи
+### ☾ на связи ☾
 
 <a href="https://t.me/killme4you"><img src="https://img.shields.io/badge/Telegram-@killme4you-FFC8DD?style=for-the-badge&logo=telegram&logoColor=8E5A7A" alt="Telegram @killme4you" /></a>
 
