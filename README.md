@@ -1,74 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:E9C6F0,100:BDE0FE&height=220&section=header&text=bezdelnichka&fontSize=64&fontColor=8E5A7A&fontAlignY=38&animation=twinkling" width="100%" alt="bezdelnichka" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFC8DD,50:E9C6F0,100:BDE0FE&height=200&section=header&text=bezdelnichka&fontSize=60&fontColor=8E5A7A&fontAlignY=42&animation=twinkling" width="100%" alt="bezdelnichka" />
 
-<a href="https://github.com/bezdelnichka"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=24&duration=3000&pause=1000&color=E87FA8&center=true&vCenter=true&width=598&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%20%D0%AF%20bezdelnichka%20%E2%99%A1;%D0%9F%D0%B8%D1%88%D1%83%20%D0%BA%D0%BE%D0%B4%20%D1%81%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%D1%8E;Tauri%20%C2%B7%20Rust%20%C2%B7%20React%20%C2%B7%20TypeScript;Windows%20%C2%B7%20Linux%20%C2%B7%20macOS;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE%20%D0%B8%20%D1%83%D1%8E%D1%82%D0%BD%D0%BE%20%E2%9C%BF" alt="Привет! Я bezdelnichka" /></a>
+<a href="https://github.com/bezdelnichka"><img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=24&duration=3000&pause=1000&color=E87FA8&center=true&vCenter=true&width=502&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%20%D0%AF%20bezdelnichka%20%E2%99%A1;%D0%9F%D0%B8%D1%88%D1%83%20%D0%BA%D0%BE%D0%B4%20%D1%81%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%D1%8E;Rust%2C%20Tauri%20%D0%B8%20%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B0%D0%B3%D0%B8%D0%B8;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE%20%D0%B8%20%D1%83%D1%8E%D1%82%D0%BD%D0%BE%20%E2%9C%BF" alt="Привет! Я bezdelnichka" /></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Rust-FFE5EC?style=for-the-badge&logo=rust&logoColor=C9184A" alt="Rust" />
-  <img src="https://img.shields.io/badge/Tauri-FFE5EC?style=for-the-badge&logo=tauri&logoColor=E0A100" alt="Tauri" />
-  <img src="https://img.shields.io/badge/React-FFE5EC?style=for-the-badge&logo=react&logoColor=0E9BC4" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-FFE5EC?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://komarev.com/ghpvc/?username=bezdelnichka&style=for-the-badge&color=F4A6C1&label=%D0%93%D0%9E%D0%A1%D0%A2%D0%98" alt="Гости профиля" />
-</p>
+<img src="https://img.shields.io/badge/Rust-FFE5EC?style=flat-square&logo=rust&logoColor=C9184A" alt="Rust" /> <img src="https://img.shields.io/badge/Tauri-FFE5EC?style=flat-square&logo=tauri&logoColor=E0A100" alt="Tauri" /> <img src="https://img.shields.io/badge/React-FFE5EC?style=flat-square&logo=react&logoColor=0E9BC4" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-FFE5EC?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://komarev.com/ghpvc/?username=bezdelnichka&style=flat-square&color=F4A6C1&label=%D0%B3%D0%BE%D1%81%D1%82%D0%B8" alt="гости" />
 
 </div>
 
-## ♡ обо мне
+<br/>
 
-```ts
-const bezdelnichka = {
-  делаю:      ["десктопные приложения", "уютные интерфейсы", "iOS-приложения"],
-  стек:       ["Rust", "Tauri", "React", "TypeScript", "Swift"],
-  платформы:  ["Windows", "Linux", "macOS", "iOS"],
-  сейчас:     "музыкальный плеер для ПК",
-  люблю:      ["музыку", "пастельные цвета", "красивые мелочи"],
-};
-```
-
-## ✿ чем занимаюсь
-
-<table>
-<tr>
-<td width="62%">
-
-- **десктопные приложения** на Tauri — лёгкие и быстрые
-- **музыка и звук** — плееры, эффекты, тексты песен
-- **iOS-приложения** на Swift
-- **сборки под все системы** через GitHub Actions
-- **интерфейсы**, в которых хочется остаться
-
-</td>
-<td width="38%" align="center">
-
-<img src="https://img.shields.io/badge/Windows-FFE5EC?style=flat-square&logo=windows&logoColor=E87FA8" alt="Windows" />
-<img src="https://img.shields.io/badge/Linux-F3E8FF?style=flat-square&logo=linux&logoColor=9D6BC4" alt="Linux" />
-<img src="https://img.shields.io/badge/macOS-E7F3FF?style=flat-square&logo=apple&logoColor=6B8FC4" alt="macOS" />
-<img src="https://img.shields.io/badge/iOS-FFE5EC?style=flat-square&logo=ios&logoColor=E87FA8" alt="iOS" />
-
-</td>
-</tr>
+<table align="center">
+<tr><td colspan="2" align="center"><b>♡ немного обо мне ♡</b></td></tr>
+<tr><td>✿ сейчас</td><td>делаю музыкальный плеер для ПК</td></tr>
+<tr><td>✿ люблю</td><td>пастельные цвета, музыку и красивые мелочи</td></tr>
+<tr><td>✿ умею</td><td>десктопные приложения, iOS, уютные интерфейсы</td></tr>
+<tr><td>✿ платформы</td><td>Windows · Linux · macOS · iOS</td></tr>
+<tr><td>✿ пишите</td><td>если хотите сделать что-то красивое вместе</td></tr>
 </table>
 
-## ♡ стек
+<br/>
 
 <div align="center">
+
+### ♡ мои инструменты
 
 <img src="https://skillicons.dev/icons?i=rust,tauri,react,ts,js,vite,nodejs,supabase,swift&theme=light&perline=9" alt="Стек" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,windows,linux,apple&theme=light&perline=7" alt="Инструменты" />
 
-</div>
+### ✿ мои дни в коде
 
-## ✿ активность
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bezdelnichka&bg_color=FFF0F5&color=8E5A7A&line=E87FA8&point=B98BD9&area=true&area_color=FFC8DD&hide_border=true&radius=16&custom_title=%D0%BC%D0%BE%D0%B8%20%D0%B4%D0%BD%D0%B8%20%D0%B2%20%D0%BA%D0%BE%D0%B4%D0%B5" width="100%" alt="График активности" />
 
-<div align="center">
+### ♡ на связи
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bezdelnichka/bezdelnichka/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bezdelnichka/bezdelnichka/output/github-snake.svg" />
-  <img alt="Змейка ест график активности" src="https://raw.githubusercontent.com/bezdelnichka/bezdelnichka/output/github-snake.svg" />
-</picture>
+<a href="https://t.me/killme4you"><img src="https://img.shields.io/badge/Telegram-@killme4you-FFC8DD?style=for-the-badge&logo=telegram&logoColor=8E5A7A" alt="Telegram @killme4you" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:BDE0FE,50:E9C6F0,100:FFC8DD&height=100&section=footer" width="100%" alt="" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDE0FE,50:E9C6F0,100:FFC8DD&height=120&section=footer" width="100%" alt="" />
